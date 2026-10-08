@@ -1,0 +1,11 @@
+node_modules/
+.env
+.env.local
+.env.*.local
+dist/
+.DS_Store
+*.log
+clean/_cache/
+clean/_cache/
+clean/
+*.bak
